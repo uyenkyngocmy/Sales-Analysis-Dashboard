@@ -39,5 +39,3 @@ Dự án xây dựng **bảng điều khiển trực quan (dashboard)** giúp ph
 * Sản phẩm có giá bán vừa phải (<500k VND) thường đạt doanh số cao nhất.
 * Thị trường vẫn tiềm năng để mở rộng sản phẩm trong phân khúc giá thấp – trung bình.
 
-## 👤 Tác giả  
-Thực hiện bởi Kỳ Ngọc Mỹ Uyên.  
